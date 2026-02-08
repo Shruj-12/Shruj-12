@@ -1,4 +1,5 @@
 ## Hi there 👋
+# I'm Srujan N. Gandhi
 
 <!--
 **Shruj-12/Shruj-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
