@@ -1,5 +1,5 @@
 # Hi there
-## I'm Srujan N. Gandhi
+## I'm Srujan Gandhi
 
 Student exploring computer science and engineering, building practical projects and learning how technology solves real-world problems. Focused on growing my skills and turning ideas into useful tools.
 
